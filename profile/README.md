@@ -8,9 +8,9 @@ Get ready to unleash your creativity and explore a world where the possibilities
 
 
 ## Features
-Heavily Optimized
-Customizations
-Features that breaks the laws of Minecraft!
+1.Heavily Optimized
+2.Customizations
+3.Features that breaks the laws of Minecraft!
 
 <a href="https://discord.gg/XcE9PNSuxu">
          <img alt="Canvas Discord" src="https://discord.com/api/guilds/1168986665038127205/widget.png?style=banner2">
