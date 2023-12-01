@@ -9,7 +9,9 @@ Get ready to unleash your creativity and explore a world where the possibilities
 
 ## Features
 1.Heavily Optimized
+
 2.Customizations
+
 3.Features that breaks the laws of Minecraft!
 
 <a href="https://discord.gg/XcE9PNSuxu">
