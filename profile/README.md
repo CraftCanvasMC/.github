@@ -2,7 +2,7 @@
 
 Empowering The Impossible
 
-Canvas is a fork of Purpur bringing tons of customization and performance like never before. While including patches and optimizations from Lithium, Mirai, Gale, and our own, we bring a huge boost in performance like no other. Canvas also has tons of new api features and customization options. From mixin compatibility, to better control of entity ais, there are truely no limits for what can be done.
+Canvas is a ServerType for Minecraft based on Purpur that tries to give plugin developers unlimted freedom when making plugins, while keeping the server quick and performant. Canvas also has tons of new api features and customization options. From mixin compatibility, to better control of entity ais, there are truely no limits for what can be done.
 
 Get ready to unleash your creativity and explore a world where the possibilities are truly endless. Welcome to CanvasMC!
 
