@@ -1,3 +1,3 @@
 ## CanvasMC
 
-Canvas, unlike most server forks out there, attempts to stay away with the generalized copy-paste manner of servers, and aims to add original(and experimental) optimizations to make your game run even faster than before.
+CanvasMC is a fork of the Folia Minecraft server software that fixes gameplay inconsistencies, bugs, and introduces further performance enhancements to the dedicated server
